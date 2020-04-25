@@ -14,7 +14,7 @@ Published website available [here](http://muhammad-ali.s3.amazonaws.com/index.ht
 
 S3 Bucket created
 
-![S3 Bucket created screen shot](./img/01-createBucket.png) 
+<img src="./img/01-createBucket.png"/>
 
 S3 Bucket created screen shot
 
