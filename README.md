@@ -6,7 +6,7 @@ Deploy a static website to AWS using S3, IAM and CloudFront.
 
 ## CloudFront endpoint
 
-<a href="drnt6corwizy8.cloudfront.net" target=_blank>drnt6corwizy8.cloudfront.net</a> 
+<a href="http://drnt6corwizy8.cloudfront.net" target=_blank>drnt6corwizy8.cloudfront.net</a> 
 
 Published website available <a href="http://muhammad-ali.s3.amazonaws.com/index.html" target=_blank>here</a>
 
